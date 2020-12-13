@@ -1,0 +1,5 @@
+cpu-features (0.6.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #977274)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sun, 13 Dec 2020 22:49:44 +0800
