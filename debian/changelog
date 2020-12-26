@@ -1,3 +1,9 @@
+cpu-features (0.6.0-2) unstable; urgency=medium
+
+  * Not install list_cpu_features in cmake target
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 26 Dec 2020 17:33:12 +0800
+
 cpu-features (0.6.0-1) unstable; urgency=medium
 
   * Initial release. (Closes: #977274)
