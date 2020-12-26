@@ -17,6 +17,7 @@ Architecture: amd64 arm64 armel armhf i386 mips64el mipsel ppc64 ppc64el
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
+Multi-Arch: same
 Description: cross platform C99 library to get cpu features
  Cross-platform C library to retrieve CPU features(such as available
  instructions) at runtime.
