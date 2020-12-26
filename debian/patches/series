@@ -1,1 +1,2 @@
 0001-use-local-googletest-src.patch
+0002-not-install-list_cpu_features.patch

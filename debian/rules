@@ -5,6 +5,3 @@
 
 override_dh_auto_configure:
 	dh_auto_configure -- -DBUILD_TESTING=ON
-
-execute_after_dh_auto_install:
-	$(RM) -frv debian/libcpu-features-dev/usr/bin
