@@ -13,7 +13,7 @@ Vcs-Git: https://salsa.debian.org/zhsj/cpu-features.git
 Vcs-Browser: https://salsa.debian.org/zhsj/cpu-features
 
 Package: libcpu-features-dev
-Architecture: amd64 arm64 armel armhf i386 mips64el mipsel powerpc ppc64 ppc64el
+Architecture: amd64 arm64 armel armhf i386 mips64el mipsel powerpc ppc64 ppc64el x32
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
